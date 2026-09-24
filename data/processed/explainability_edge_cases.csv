@@ -1,0 +1,408 @@
+uniqueID,drugName,condition,review,rating,date,usefulCount,condition_primary,condition_subtype,condition_clean,rating_3_class,log_usefulCount,review_length,est_token_count,char_length,avg_word_length,year,month
+158784,Methylphenidate,ADHD,"I am very happy with Concerta. I am 17 years old and started taking this about 3 months ago. Before I took this, I had a lot of trouble in school with paying attention and focusing, and after I took it, I noticed an immediate difference and it was so much easier to focus and pay attention. Another really positive feedback from Concerta is that it helps me engage in conversation more because I am more focused and I don't interrupt people like I used to. Also, it helps me think things through more.",9,24-Jun-08,122,ADHD,,ADHD,3,4.812184355372417,94,122,501,5.33,2008,6
+37649,Vyvanse,ADHD,"I am a 19 year old college student and just got prescribed Vyvanse about 2 days ago. When I take it I mainly feel relaxed and sometimes excited. I've never been on any stimulant or ADD medication before. My main concern is losing weight on this medicine. I'm about 5'9"" and weigh about 135lbs. I eat a lot and I'm still fairly skinny. I've always worried about my weight and the last thing I want is to get skinnier.",5,17-Jul-09,6,ADHD,,ADHD,2,1.9459101490553132,79,102,416,5.27,2009,7
+89121,Vytorin,High Cholesterol,Very effective.,10,8-Nov-09,10,High Cholesterol,,High Cholesterol,3,2.3978952727983707,2,2,15,7.5,2009,11
+13653,Amphetamine / dextroamphetamine,ADHD,Great,10,20-Oct-09,3,ADHD,,ADHD,3,1.3862943611198906,1,1,5,5.0,2009,10
+173773,Mometasone,Eczema,Good medicine,10,23-Jan-11,12,Eczema,,Eczema,3,2.5649493574615367,2,2,13,6.5,2011,1
+160223,Rivaroxaban,Deep Vein Thrombosis,Good,9,8-Dec-13,11,Deep Vein Thrombosis,,Deep Vein Thrombosis,3,2.4849066497880004,1,1,4,4.0,2013,12
+171743,Loratadine,Allergic Rhinitis,It works.,10,11-May-13,10,Allergic Rhinitis,,Allergic Rhinitis,3,2.3978952727983707,2,2,9,4.5,2013,5
+61289,Xyzal,Allergic Rhinitis,It works.,9,22-Nov-08,12,Allergic Rhinitis,,Allergic Rhinitis,3,2.5649493574615367,2,2,9,4.5,2008,11
+168419,Monistat 7,Vaginal Yeast Infection,I loved it!!!!,9,12-Jun-17,0,Vaginal Yeast Infection,,Vaginal Yeast Infection,3,0.0,3,3,14,4.67,2017,6
+203401,Halcion,Insomnia,Works great!,10,30-Sep-11,36,Insomnia,,Insomnia,3,3.6109179126442243,2,2,12,6.0,2011,9
+65194,Mysoline,Seizures,Great!,10,26-Aug-09,21,Seizures,,Seizures,3,3.091042453358316,1,1,6,6.0,2009,8
+92273,Lyrica,Generalized Anxiety Disorde,"The first time I used Lyrica I experienced an amazingly profound reaction; layers of depression and anxiety that had built up over several years melted away within minutes. That was years ago and I have since both weaned myself off the drug and restarted taking it again. One thing I rarely see mentioned is the terrifyingly bad withdrawal effect- missing more than one dose for me throws me into the absolute darkest pits of despair. Has anyone else experienced this? When I went off the drug the first time I felt like I had performed a miracle; so strong was the feeling that it took a long time for me to convince myself that things were bad enough to warrant going back on. It still helps, but nothing as miraculous as the first time.",10,4-Oct-09,75,Generalized Anxiety Disorde,,Generalized Anxiety Disorde,3,4.330733340286331,134,174,739,5.51,2009,10
+136543,Coartem,Malaria,Excellent,10,28-Mar-13,6,Malaria,,Malaria,3,1.9459101490553132,1,1,9,9.0,2013,3
+214906,Human papillomavirus vaccine,Human Papillomavirus Prophylaxis,Very good.,10,17-Dec-08,2,Human Papillomavirus Prophylaxis,,Human Papillomavirus Prophylaxis,3,1.0986122886681098,2,2,10,5.0,2008,12
+69295,Celebrex,Pain,I have had chronic pain and tried many medicines including narcotics to help. Celebrex has helped me so much. I am able to do so many things that I couldn't before. My doctor has me taking it with Tylenol w/Codeine #3 and Carisoprodol.,8,4-Apr-08,52,Pain,,Pain,3,3.970291913552122,43,55,235,5.47,2008,4
+173823,Provigil,Obstructive Sleep Apnea/Hypopnea Syndrome,Positive,7,27-Jan-15,16,Obstructive Sleep Apnea/Hypopnea Syndrome,,Obstructive Sleep Apnea/Hypopnea Syndrome,3,2.833213344056216,1,1,8,8.0,2015,1
+52996,Septra,Bronchitis,Great!,8,18-Oct-13,3,Bronchitis,,Bronchitis,3,1.3862943611198906,1,1,6,6.0,2013,10
+87778,Naproxen,Back Pain,Good.,4,9-Feb-10,18,Back Pain,,Back Pain,1,2.9444389791664403,1,1,5,5.0,2010,2
+172109,Tylenol PM,Insomnia,Great,8,11-May-17,3,Insomnia,,Insomnia,3,1.3862943611198906,1,1,5,5.0,2017,5
+194386,Crestor,High Cholesterol,Very good,10,23-May-16,17,High Cholesterol,,High Cholesterol,3,2.8903717578961645,2,2,9,4.5,2016,5
+161816,Dermal filler,acial Wrinkles,I loved it!!!!,10,21-Apr-17,7,acial Wrinkles,,acial Wrinkles,3,2.0794415416798357,3,3,14,4.67,2017,4
+66751,Seroquel,Schizoaffective Disorde,Works for me.,9,11-Mar-14,14,Schizoaffective Disorde,,Schizoaffective Disorde,3,2.70805020110221,3,3,13,4.33,2014,3
+87815,Naproxen,Pain,Works well.,10,3-Dec-08,10,Pain,,Pain,3,2.3978952727983707,2,2,11,5.5,2008,12
+181033,Olopatadine,Seasonal Allergic Conjunctivitis,great,8,5-Dec-16,0,Seasonal Allergic Conjunctivitis,,Seasonal Allergic Conjunctivitis,3,0.0,1,1,5,5.0,2016,12
+189630,Oxycodone,Pain,good,10,27-Mar-09,6,Pain,,Pain,3,1.9459101490553132,1,1,4,4.0,2009,3
+172209,Doxazosin,Not Listed / Othe,"Took 1 8mg Cardura daily. Experienced dizziness and nausea for the first 3 days but later adjusted to the medication and maintained pressure around 120/80. On doctor's advise, Cardura discontinued and replaced with alternative medication due to excessively fast pulse/heart rate up to 100/s after 6 months on Cardura",2,26-Mar-08,31,Not Listed / Othe,,Not Listed / Othe,1,3.4657359027997265,49,63,316,6.45,2008,3
+190655,Oxybutynin,Overactive Bladde,Work good,8,15-Nov-14,10,Overactive Bladde,,Overactive Bladde,3,2.3978952727983707,2,2,9,4.5,2014,11
+170308,Quetiapine,Insomnia,Weight gain,9,12-Jul-16,7,Insomnia,,Insomnia,3,2.0794415416798357,2,2,11,5.5,2016,7
+54831,Bupropion / naltrexone,Obesity,Good,7,13-Feb-17,6,Obesity,,Obesity,3,1.9459101490553132,1,1,4,4.0,2017,2
+149903,Soma,Muscle Spasm,Good,10,13-Mar-15,45,Muscle Spasm,,Muscle Spasm,3,3.828641396489095,1,1,4,4.0,2015,3
+152600,Lortab,Cough,Works great.,10,30-Sep-11,28,Cough,,Cough,3,3.367295829986474,2,2,12,6.0,2011,9
+166306,Levonorgestrel,Emergency Contraception,It works,10,27-Nov-16,0,Emergency Contraception,,Emergency Contraception,3,0.0,2,2,8,4.0,2016,11
+158782,Methylphenidate,Not Listed / Othe,"I am very happy with Concerta. I am 17 years old and started taking this about 3 months ago. Before I took this, I had a lot of trouble in school with paying attention and focusing, and after I took it, I noticed an immediate difference and it was so much easier to focus and pay attention. Another really positive feedback from Concerta is that it helps me engage in conversation more because I am more focused and I don't interrupt people like I used to. Also, it helps me think things through more.",10,30-Jun-08,2,Not Listed / Othe,,Not Listed / Othe,3,1.0986122886681098,94,122,501,5.33,2008,6
+86711,Condylox,Condylomata Acuminata,Very good,9,29-Mar-08,25,Condylomata Acuminata,,Condylomata Acuminata,3,3.258096538021482,2,2,9,4.5,2008,3
+122200,Venlafaxine,Bipolar Disorde,This medicine saved my life.,9,7-May-09,27,Bipolar Disorde,,Bipolar Disorde,3,3.332204510175204,5,6,28,5.6,2009,5
+147499,Alprazolam,Anxiety,Great.,10,14-Dec-09,8,Anxiety,,Anxiety,3,2.1972245773362196,1,1,6,6.0,2009,12
+214958,Fluoxetine / olanzapine,Not Listed / Othe,This drug saved my life.,9,30-Sep-08,2,Not Listed / Othe,,Not Listed / Othe,3,1.0986122886681098,5,6,24,4.8,2008,9
+159892,Bactrim,Urinary Tract Infection,Works great.,10,23-Jan-12,23,Urinary Tract Infection,,Urinary Tract Infection,3,3.1780538303479458,2,2,12,6.0,2012,1
+96602,Sertraline,Bipolar Disorde,Very good.,10,5-Oct-08,9,Bipolar Disorde,,Bipolar Disorde,3,2.302585092994046,2,2,10,5.0,2008,10
+101204,Ketoconazole,Dermatophytosis,Excellent,10,5-Nov-11,6,Dermatophytosis,,Dermatophytosis,3,1.9459101490553132,1,1,9,9.0,2011,11
+7851,Xanax,Anxiety,Good.,10,6-Dec-12,23,Anxiety,,Anxiety,3,3.1780538303479458,1,1,5,5.0,2012,12
+17180,Flexeril,Migraine,Did not work well for me.,2,10-Feb-10,13,Migraine,,Migraine,1,2.6390573296152584,6,7,25,4.17,2010,2
+189267,Oxycodone,Chronic Pain,Great,10,31-Aug-13,44,Chronic Pain,,Chronic Pain,3,3.8066624897703196,1,1,5,5.0,2013,8
+21523,"Multivitamin, prenatal",Vitamin/Mineral Supplementation during Pregnancy/Lactation,No side effects.,9,24-Jul-09,0,Vitamin/Mineral Supplementation during Pregnancy/Lactation,,Vitamin/Mineral Supplementation during Pregnancy/Lactation,3,0.0,3,3,16,5.33,2009,7
+223323,Cetirizine,Allergic Rhinitis,Very effective.,10,8-Aug-10,5,Allergic Rhinitis,,Allergic Rhinitis,3,1.791759469228055,2,2,15,7.5,2010,8
+80414,Aleve,Back Pain,Good.,4,9-Feb-10,18,Back Pain,,Back Pain,1,2.9444389791664403,1,1,5,5.0,2010,2
+67784,Plan B,Emergency Contraception,It works,10,27-Nov-16,0,Emergency Contraception,,Emergency Contraception,3,0.0,2,2,8,4.0,2016,11
+88491,Adderall,ADHD,Great,10,20-Oct-09,3,ADHD,,ADHD,3,1.3862943611198906,1,1,5,5.0,2009,10
+6610,Primidone,Seizures,Great!,10,26-Aug-09,21,Seizures,,Seizures,3,3.091042453358316,1,1,6,6.0,2009,8
+218471,Amoxicillin / clavulanate,Sinusitis,Works great,10,22-Jun-08,54,Sinusitis,,Sinusitis,3,4.007333185232471,2,2,11,5.5,2008,6
+112373,Desmopressin,Diabetes Insipidus,Works great but you need to take it on time.,9,9-Jul-14,2,Diabetes Insipidus,,Diabetes Insipidus,3,1.0986122886681098,10,13,44,4.4,2014,7
+103524,Synthroid,"Hypothyroidism, After Thyroid Removal",This medicine saved my life.,10,18-Nov-08,63,Hypothyroidism,After Thyroid Removal,After Thyroid Removal Hypothyroidism,3,4.1588830833596715,5,6,28,5.6,2008,11
+3717,Fioricet,Headache,Good,10,21-Jan-16,14,Headache,,Headache,3,2.70805020110221,1,1,4,4.0,2016,1
+156055,Cialis,Erectile Dysfunction,Wonderful,10,2-Feb-14,15,Erectile Dysfunction,,Erectile Dysfunction,3,2.772588722239781,1,1,9,9.0,2014,2
+43764,Acetaminophen / codeine,Pain,Very good,10,29-Jun-10,18,Pain,,Pain,3,2.9444389791664403,2,2,9,4.5,2010,6
+1866,Colchicine,"Gout, Acute",good,10,5-Jan-16,1,Gout,Acute,Acute Gout,3,0.6931471805599453,1,1,4,4.0,2016,1
+210981,Carisoprodol,Muscle Spasm,Good,10,13-Mar-15,45,Muscle Spasm,,Muscle Spasm,3,3.828641396489095,1,1,4,4.0,2015,3
+126552,Acetaminophen,Pain,Good,10,3-May-15,3,Pain,,Pain,3,1.3862943611198906,1,1,4,4.0,2015,5
+14146,Triamcinolone,Lichen Planus,Horrible side effects.,6,15-Apr-14,6,Lichen Planus,,Lichen Planus,2,1.9459101490553132,3,3,22,7.33,2014,4
+193388,Cyclobenzaprine,Migraine,Did not work well for me.,3,6-Mar-10,13,Migraine,,Migraine,1,2.6390573296152584,6,7,25,4.17,2010,3
+67082,Hydrocortisone,Eczema,Works well for me.,10,13-Jun-13,10,Eczema,,Eczema,3,2.3978952727983707,4,5,18,4.5,2013,6
+53376,Vicodin ES,Cough,Works great.,10,6-Nov-13,27,Cough,,Cough,3,3.332204510175204,2,2,12,6.0,2013,11
+218453,Amoxicillin / clavulanate,Strep Throat,Very good,10,3-Mar-11,17,Strep Throat,,Strep Throat,3,2.8903717578961645,2,2,9,4.5,2011,3
+115648,Cefprozil,Tonsillitis/Pharyngitis,Great,9,11-Aug-12,4,Tonsillitis/Pharyngitis,,Tonsillitis/Pharyngitis,3,1.6094379124341003,1,1,5,5.0,2012,8
+197485,Paroxetine,Generalized Anxiety Disorde,I love it.,10,26-Sep-09,28,Generalized Anxiety Disorde,,Generalized Anxiety Disorde,3,3.367295829986474,3,3,10,3.33,2009,9
+69671,Buprenorphine,Opiate Dependence,Saved my life.,10,24-Oct-08,53,Opiate Dependence,,Opiate Dependence,3,3.9889840465642745,3,3,14,4.67,2008,10
+172424,Clonazepam,Bipolar Disorde,Horrible side effects.,1,19-Aug-16,11,Bipolar Disorde,,Bipolar Disorde,1,2.4849066497880004,3,3,22,7.33,2016,8
+136781,Sodium hyaluronate,Osteoarthritis,Great.,10,20-Dec-11,13,Osteoarthritis,,Osteoarthritis,3,2.6390573296152584,1,1,6,6.0,2011,12
+150019,Soma,Muscle Spasm,Very good medicine.,10,2-Sep-09,21,Muscle Spasm,,Muscle Spasm,3,3.091042453358316,3,3,19,6.33,2009,9
+149946,Soma,Muscle Spasm,It works great.,9,23-Jun-12,38,Muscle Spasm,,Muscle Spasm,3,3.6635616461296463,3,3,15,5.0,2012,6
+146457,Tamsulosin,Benign Prostatic Hyperplasia,Works well,7,16-Sep-17,3,Benign Prostatic Hyperplasia,,Benign Prostatic Hyperplasia,3,1.3862943611198906,2,2,10,5.0,2017,9
+196549,Eszopiclone,Insomnia,It is good.,5,25-Sep-08,9,Insomnia,,Insomnia,2,2.302585092994046,3,3,11,3.67,2008,9
+134409,Prednisone,"Conjunctivitis, Allergic",Very good,9,1-Aug-12,6,Conjunctivitis,Allergic,Allergic Conjunctivitis,3,1.9459101490553132,2,2,9,4.5,2012,8
+188852,Prevacid,Stomach Ulce,Works great!,10,18-Jul-13,9,Stomach Ulce,,Stomach Ulce,3,2.302585092994046,2,2,12,6.0,2013,7
+193214,Cyclobenzaprine,Muscle Spasm,Just started,3,1-Oct-16,5,Muscle Spasm,,Muscle Spasm,1,1.791759469228055,2,2,12,6.0,2016,10
+78085,Zyprexa,Bipolar Disorde,This medicine saved my life.,10,9-Jun-16,35,Bipolar Disorde,,Bipolar Disorde,3,3.58351893845611,5,6,28,5.6,2016,6
+208437,Oseltamivir,Influenza,Very expensive though.,7,16-Jan-13,8,Influenza,,Influenza,3,2.1972245773362196,3,3,22,7.33,2013,1
+30282,Klonopin,Anxiety,Works well.,10,20-Feb-11,8,Anxiety,,Anxiety,3,2.1972245773362196,2,2,11,5.5,2011,2
+142140,Escitalopram,Anxiety,Excellent,9,3-Jul-08,27,Anxiety,,Anxiety,3,3.332204510175204,1,1,9,9.0,2008,7
+134410,Prednisone,Rheumatoid Arthritis,Good.,10,10-Jul-12,25,Rheumatoid Arthritis,,Rheumatoid Arthritis,3,3.258096538021482,1,1,5,5.0,2012,7
+200246,Varenicline,Smoking Cessation,Excellent,10,16-Mar-15,8,Smoking Cessation,,Smoking Cessation,3,2.1972245773362196,1,1,9,9.0,2015,3
+193541,Cyclobenzaprine,Migraine,Did not work well for me.,2,10-Feb-10,13,Migraine,,Migraine,1,2.6390573296152584,6,7,25,4.17,2010,2
+193292,Cyclobenzaprine,Muscle Spasm,Works well,10,8-Nov-15,23,Muscle Spasm,,Muscle Spasm,3,3.1780538303479458,2,2,10,5.0,2015,11
+30335,Klonopin,Seizure Prevention,Great!,10,29-Nov-09,15,Seizure Prevention,,Seizure Prevention,3,2.772588722239781,1,1,6,6.0,2009,11
+27517,DDAVP,Diabetes Insipidus,Works great but you need to take it on time.,9,9-Jul-14,2,Diabetes Insipidus,,Diabetes Insipidus,3,1.0986122886681098,10,13,44,4.4,2014,7
+177145,Lamisil AT,Tinea Cruris,Doesn't work for me.,1,9-May-09,11,Tinea Cruris,,Tinea Cruris,1,2.4849066497880004,4,5,20,5.0,2009,5
+45460,Fluoxetine,Major Depressive Disorde,works,10,2-Nov-14,6,Major Depressive Disorde,,Major Depressive Disorde,3,1.9459101490553132,1,1,5,5.0,2014,11
+13251,Amphetamine / dextroamphetamine,ADHD,works,9,29-Aug-17,1,ADHD,,ADHD,3,0.6931471805599453,1,1,5,5.0,2017,8
+59393,Zyrtec,Allergic Rhinitis,Very effective.,10,8-Aug-10,5,Allergic Rhinitis,,Allergic Rhinitis,3,1.791759469228055,2,2,15,7.5,2010,8
+38236,Albuterol,"COPD, Maintenance",It works.,8,2-Feb-11,27,COPD,Maintenance,Maintenance COPD,3,3.332204510175204,2,2,9,4.5,2011,2
+115153,Diazepam,Status Epilepticus,Great!,10,6-Jul-12,2,Status Epilepticus,,Status Epilepticus,3,1.0986122886681098,1,1,6,6.0,2012,7
+119443,Testosterone,"Hypogonadism, Male",Works great.,10,3-Jun-13,3,Hypogonadism,Male,Male Hypogonadism,3,1.3862943611198906,2,2,12,6.0,2013,6
+181797,Reprexain,Pain,Great medicine. No side effects.,7,5-Oct-12,10,Pain,,Pain,3,2.3978952727983707,5,6,32,6.4,2012,10
+189364,Oxycodone,Pain,Great,6,14-May-15,11,Pain,,Pain,2,2.4849066497880004,1,1,5,5.0,2015,5
+30590,Chlorpheniramine,Allergic Reactions,It's good.,9,24-Dec-08,0,Allergic Reactions,,Allergic Reactions,3,0.0,2,2,10,5.0,2008,12
+218415,Amoxicillin / clavulanate,Kidney Infections,Great,10,23-Sep-12,42,Kidney Infections,,Kidney Infections,3,3.7612001156935624,1,1,5,5.0,2012,9
+80651,Tussionex Pennkinetic,Cough,It works.,10,12-Nov-09,1,Cough,,Cough,3,0.6931471805599453,2,2,9,4.5,2009,11
+102171,Spiriva,"COPD, Maintenance",Works well.,10,1-May-14,35,COPD,Maintenance,Maintenance COPD,3,3.58351893845611,2,2,11,5.5,2014,5
+211592,Psyllium,Constipation,It works great.,10,1-Jan-11,55,Constipation,,Constipation,3,4.02535169073515,3,3,15,5.0,2011,1
+208687,Belsomra,Insomnia,Didn't work for me.,1,28-Oct-17,2,Insomnia,,Insomnia,1,1.0986122886681098,4,5,19,4.75,2017,10
+194916,Levetiracetam,Neuralgia,I,9,23-Feb-14,2,Neuralgia,,Neuralgia,3,1.0986122886681098,1,1,1,1.0,2014,2
+126890,Thorazine,Psychosis,Good,10,26-Feb-11,8,Psychosis,,Psychosis,3,2.1972245773362196,1,1,4,4.0,2011,2
+135883,Percocet,Pain,Great!,10,14-Jul-08,8,Pain,,Pain,3,2.1972245773362196,1,1,6,6.0,2008,7
+83625,Levocetirizine,Allergic Rhinitis,It works.,9,22-Nov-08,12,Allergic Rhinitis,,Allergic Rhinitis,3,2.5649493574615367,2,2,9,4.5,2008,11
+181926,Inderal,Migraine Prevention,"I was prescribed Inderal to help with Primary Ortostatic Tremors. I did not get any relief with this medication for that condition. However. I discovered that whenever I stop taking Inderal, I end up with a migraine headache. I take 20 mg at bedtime. It makes me sleepy and gives me nightmares which continue to this day. However, the side effects are tolerable and well worth putting up with to prevent getting migraines. I highly recommend this medication for preventing migraines.",10,28-Apr-13,49,Migraine Prevention,,Migraine Prevention,3,3.912023005428146,81,105,483,5.96,2013,4
+202820,Loperamide,Diarrhea,Very effective.,10,28-Jun-14,20,Diarrhea,,Diarrhea,3,3.044522437723423,2,2,15,7.5,2014,6
+216371,Sildenafil,Erectile Dysfunction,Great,10,28-Jul-16,12,Erectile Dysfunction,,Erectile Dysfunction,3,2.5649493574615367,1,1,5,5.0,2016,7
+14429,Buprenorphine / naloxone,Opiate Dependence,Awesome.,10,18-Jun-10,10,Opiate Dependence,,Opiate Dependence,3,2.3978952727983707,1,1,8,8.0,2010,6
+57189,Ventolin,"COPD, Maintenance",It works.,8,2-Feb-11,27,COPD,Maintenance,Maintenance COPD,3,3.332204510175204,2,2,9,4.5,2011,2
+215283,Lubiprostone,Irritable Bowel Syndrome,Good medicine.,10,10-Jan-09,9,Irritable Bowel Syndrome,,Irritable Bowel Syndrome,3,2.302585092994046,2,2,14,7.0,2009,1
+92276,Lyrica,Pain,"The first time I used Lyrica I experienced an amazingly profound reaction; layers of depression and anxiety that had built up over several years melted away within minutes. That was years ago and I have since both weaned myself off the drug and restarted taking it again. One thing I rarely see mentioned is the terrifyingly bad withdrawal effect- missing more than one dose for me throws me into the absolute darkest pits of despair. Has anyone else experienced this? When I went off the drug the first time I felt like I had performed a miracle; so strong was the feeling that it took a long time for me to convince myself that things were bad enough to warrant going back on. It still helps, but nothing as miraculous as the first time.",9,29-Sep-09,30,Pain,,Pain,3,3.4339872044851463,134,174,739,5.51,2009,9
+30290,Klonopin,Anxiety,Works great.,10,11-Jul-12,15,Anxiety,,Anxiety,3,2.772588722239781,2,2,12,6.0,2012,7
+21411,Benzoyl peroxide / erythromycin,Acne,Love it!,10,21-Oct-13,4,Acne,,Acne,3,1.6094379124341003,2,2,8,4.0,2013,10
+103409,Celecoxib,Osteoarthritis,I have had chronic pain and tried many medicines including narcotics to help. Celebrex has helped me so much. I am able to do so many things that I couldn't before. My doctor has me taking it with Tylenol w/Codeine #3 and Carisoprodol.,9,7-Apr-08,72,Osteoarthritis,,Osteoarthritis,3,4.290459441148391,43,55,235,5.47,2008,4
+62615,Citalopram,Anxiety and Stress,Works for me.,9,7-Nov-09,50,Anxiety and Stress,,Anxiety and Stress,3,3.9318256327243257,3,3,13,4.33,2009,11
+208733,Indocin,zen Shoulde,It works.,10,7-Dec-11,12,zen Shoulde,,zen Shoulde,3,2.5649493574615367,2,2,9,4.5,2011,12
+162211,Brovana,"COPD, Maintenance",Very good,9,8-Apr-08,32,COPD,Maintenance,Maintenance COPD,3,3.4965075614664802,2,2,9,4.5,2008,4
+89145,Celexa,Depression,Saved my life.,8,5-Jun-17,13,Depression,,Depression,3,2.6390573296152584,3,3,14,4.67,2017,6
+157302,Kenalog-40,Lichen Planus,Horrible side effects.,6,15-Apr-14,6,Lichen Planus,,Lichen Planus,2,1.9459101490553132,3,3,22,7.33,2014,4
+170569,Quetiapine,Major Depressive Disorde,Works great for me,9,3-Mar-15,5,Major Depressive Disorde,,Major Depressive Disorde,3,1.791759469228055,4,5,18,4.5,2015,3
+161090,Risperidone,Asperger Syndrome,Works well.,8,17-Jan-13,8,Asperger Syndrome,,Asperger Syndrome,3,2.1972245773362196,2,2,11,5.5,2013,1
+110981,Diclegis,Nausea/Vomiting of Pregnancy,Excellent,9,20-Mar-16,1,Nausea/Vomiting of Pregnancy,,Nausea/Vomiting of Pregnancy,3,0.6931471805599453,1,1,9,9.0,2016,3
+193236,Cyclobenzaprine,ibromyalgia,Very good,10,9-May-16,9,ibromyalgia,,ibromyalgia,3,2.302585092994046,2,2,9,4.5,2016,5
+57012,Dramamine II,Vertig,Works for me.,10,31-Dec-08,48,Vertig,,Vertig,3,3.8918202981106265,3,3,13,4.33,2008,12
+30102,Klonopin,Anxiety,Good medicine.,9,26-Apr-14,42,Anxiety,,Anxiety,3,3.7612001156935624,2,2,14,7.0,2014,4
+88394,Adderall,ADHD,Works great!,9,10-Oct-11,3,ADHD,,ADHD,3,1.3862943611198906,2,2,12,6.0,2011,10
+204698,Acetaminophen / propoxyphene,Pain,It works great.,9,12-Jan-09,5,Pain,,Pain,3,1.791759469228055,3,3,15,5.0,2009,1
+6511,Wellbutrin XL,Depression,Constipation,8,25-May-17,10,Depression,,Depression,3,2.3978952727983707,1,1,12,12.0,2017,5
+59377,Insulin aspart / insulin aspart protamine,"Diabetes, Type 1",Very helpful,10,25-May-09,0,Diabetes,Type 1,Type 1 Diabetes,3,0.0,2,2,12,6.0,2009,5
+147254,Alprazolam,Anxiety,Good.,10,6-Dec-12,23,Anxiety,,Anxiety,3,3.1780538303479458,1,1,5,5.0,2012,12
+150835,Sulfamethoxazole / trimethoprim,Bronchitis,Great!,8,18-Oct-13,3,Bronchitis,,Bronchitis,3,1.3862943611198906,1,1,6,6.0,2013,10
+173283,Clonazepam,Seizure Prevention,Great!,10,29-Nov-09,15,Seizure Prevention,,Seizure Prevention,3,2.772588722239781,1,1,6,6.0,2009,11
+153810,Amoxicillin,Helicobacter Pylori Infection,good,10,31-Oct-15,1,Helicobacter Pylori Infection,,Helicobacter Pylori Infection,3,0.6931471805599453,1,1,4,4.0,2015,10
+206325,Mesalamine,"Ulcerative Colitis, Active",Works well for me.,8,11-Mar-14,8,Ulcerative Colitis,Active,Active Ulcerative Colitis,3,2.1972245773362196,4,5,18,4.5,2014,3
+61096,Metformin / pioglitazone,min / pioglitazone),Very effective.,9,26-May-09,12,min / pioglitazone),,min / pioglitazone),3,2.5649493574615367,2,2,15,7.5,2009,5
+172068,Amitiza,Irritable Bowel Syndrome,Good medicine.,10,10-Jan-09,9,Irritable Bowel Syndrome,,Irritable Bowel Syndrome,3,2.302585092994046,2,2,14,7.0,2009,1
+176865,Triazolam,Insomnia,Works great!,10,30-Sep-11,36,Insomnia,,Insomnia,3,3.6109179126442243,2,2,12,6.0,2011,9
+203765,Mefenamic acid,Period Pain,Great medicine.,10,6-Aug-09,4,Period Pain,,Period Pain,3,1.6094379124341003,2,2,15,7.5,2009,8
+62120,Citalopram,Depression,great,7,7-Aug-14,5,Depression,,Depression,3,1.791759469228055,1,1,5,5.0,2014,8
+182076,Cimetidine,GERD,Works well,10,21-Aug-15,1,GERD,,GERD,3,0.6931471805599453,2,2,10,5.0,2015,8
+229042,Tadalafil,Erectile Dysfunction,Wonderful,10,2-Feb-14,15,Erectile Dysfunction,,Erectile Dysfunction,3,2.772588722239781,1,1,9,9.0,2014,2
+204117,Dilantin,Epilepsy,"I have had grand mal seizures since I was 9 years old and was involved in a car accident. I have taken Dilantin for over 50 years, with good results. It has controlled my seizures pretty well until recently. I was diagnosed with COPD 2 years ago, and in that time, I have been having seizures every 3-6 months. My doctor switched me to Keppra 6 months ago, and in that time, I have had at least 1 seizure a month. I think it's time to switch back to what works.",9,29-Aug-11,19,Epilepsy,,Epilepsy,3,2.995732273553991,91,118,461,5.07,2011,8
+171036,Quetiapine,Insomnia,I like it.,9,1-Oct-09,12,Insomnia,,Insomnia,3,2.5649493574615367,3,3,10,3.33,2009,10
+55962,Effexor,Bipolar Disorde,This medicine saved my life.,9,7-May-09,27,Bipolar Disorde,,Bipolar Disorde,3,3.332204510175204,5,6,28,5.6,2009,5
+139885,Euflexxa,Osteoarthritis,Excellent,10,11-Aug-14,55,Osteoarthritis,,Osteoarthritis,3,4.02535169073515,1,1,9,9.0,2014,8
+228671,Alprostadil,Erectile Dysfunction,works great,10,17-Nov-17,0,Erectile Dysfunction,,Erectile Dysfunction,3,0.0,2,2,11,5.5,2017,11
+105010,Ethinyl estradiol / levonorgestrel,Birth Control,Awesome.,10,13-Nov-08,5,Birth Control,,Birth Control,3,1.791759469228055,1,1,8,8.0,2008,11
+135868,Percocet,Pain,Very good.,9,16-Dec-08,7,Pain,,Pain,3,2.0794415416798357,2,2,10,5.0,2008,12
+179045,Insulin regular,"Diabetes, Type 1",Great medicine. No side effects.,9,31-Oct-11,2,Diabetes,Type 1,Type 1 Diabetes,3,1.0986122886681098,5,6,32,6.4,2011,10
+191224,Pentasa,"Crohn's Disease, Maintenance",works great,10,28-Jun-15,14,Crohn's Disease,Maintenance,Maintenance Crohn's Disease,3,2.70805020110221,2,2,11,5.5,2015,6
+172840,Clonazepam,Anxiety,Good medicine.,9,26-Apr-14,42,Anxiety,,Anxiety,3,3.7612001156935624,2,2,14,7.0,2014,4
+11410,Glimepiride,"Diabetes, Type 2",Good,10,26-Nov-13,22,Diabetes,Type 2,Type 2 Diabetes,3,3.1354942159291497,1,1,4,4.0,2013,11
+32935,Seasonique,Birth Control,Works great but you need to take it on time.,10,22-Dec-15,11,Birth Control,,Birth Control,3,2.4849066497880004,10,13,44,4.4,2015,12
+78153,Zyprexa,Bipolar Disorde,Works,10,15-Aug-12,23,Bipolar Disorde,,Bipolar Disorde,3,3.1780538303479458,1,1,5,5.0,2012,8
+59275,Lansoprazole,Gastritis/Duodenitis,works great,10,20-Nov-17,0,Gastritis/Duodenitis,,Gastritis/Duodenitis,3,0.0,2,2,11,5.5,2017,11
+153161,Doxycycline,Bacterial Infection,Great,10,29-Jan-16,9,Bacterial Infection,,Bacterial Infection,3,2.302585092994046,1,1,5,5.0,2016,1
+43537,Hydromorphone,Pain,"This medicine has worked wonders on my chronic back pain. I have tried everything from Tramadol to Opana ER and for the price Roxicodone 30mg tops them all if taken as prescribed, and at the same time each day. The only downfall is that you must take the pills more frequently than say MS Contin or Oxycontin where you only need them every 12 hours. However that was my main problem with the Opana, Oxycontin, Etc., they didn't seem to last the full 12 hours as advertised. I was lucky if I got a good 8 hours from them.",9,4-Oct-09,16,Pain,,Pain,3,2.833213344056216,99,128,520,5.25,2009,10
+25629,Arginine,Dietary Supplementation,Good,8,10-Apr-15,12,Dietary Supplementation,,Dietary Supplementation,3,2.5649493574615367,1,1,4,4.0,2015,4
+179385,Olanzapine,Bipolar Disorde,Works,10,15-Aug-12,23,Bipolar Disorde,,Bipolar Disorde,3,3.1780538303479458,1,1,5,5.0,2012,8
+223369,Cetirizine,Allergic Rhinitis,Love it.,10,24-Jun-08,4,Allergic Rhinitis,,Allergic Rhinitis,3,1.6094379124341003,2,2,8,4.0,2008,6
+66972,Seroquel,Insomnia,I like it.,9,1-Oct-09,12,Insomnia,,Insomnia,3,2.5649493574615367,3,3,10,3.33,2009,10
+119695,Onfi,Lennox-Gastaut Syndrome,Great.,10,16-Jan-13,12,Lennox-Gastaut Syndrome,,Lennox-Gastaut Syndrome,3,2.5649493574615367,1,1,6,6.0,2013,1
+58147,Acetaminophen / hydrocodone,Pain,Good medicine.,9,16-Feb-09,11,Pain,,Pain,3,2.4849066497880004,2,2,14,7.0,2009,2
+191286,Pentasa,"Ulcerative Colitis, Active",Works well for me.,8,11-Mar-14,8,Ulcerative Colitis,Active,Active Ulcerative Colitis,3,2.1972245773362196,4,5,18,4.5,2014,3
+32157,Wellbutrin XL,Depression,Saved my life.,10,5-Aug-12,41,Depression,,Depression,3,3.7376696182833684,3,3,14,4.67,2012,8
+40917,Acetaminophen / oxycodone,Chronic Pain,Good stuff.,10,14-Oct-16,1,Chronic Pain,,Chronic Pain,3,0.6931471805599453,2,2,11,5.5,2016,10
+14505,Buprenorphine / naloxone,Opiate Dependence,It works.,10,14-Aug-09,1,Opiate Dependence,,Opiate Dependence,3,0.6931471805599453,2,2,9,4.5,2009,8
+170013,Quetiapine,Insomnia,Not effective,2,26-Oct-17,0,Insomnia,,Insomnia,1,0.0,2,2,13,6.5,2017,10
+33215,Seasonique,Birth Control,Awesome.,10,13-Nov-08,5,Birth Control,,Birth Control,3,1.791759469228055,1,1,8,8.0,2008,11
+119090,Zoloft,Bipolar Disorde,Very good.,10,5-Oct-08,9,Bipolar Disorde,,Bipolar Disorde,3,2.302585092994046,2,2,10,5.0,2008,10
+176684,Lorazepam,Anxiety,Good.,8,7-Aug-09,6,Anxiety,,Anxiety,3,1.9459101490553132,1,1,5,5.0,2009,8
+112714,Lunesta,Insomnia,It is good.,5,25-Sep-08,9,Insomnia,,Insomnia,2,2.302585092994046,3,3,11,3.67,2008,9
+175640,Augmentin,Strep Throat,Very good,10,3-Mar-11,17,Strep Throat,,Strep Throat,3,2.8903717578961645,2,2,9,4.5,2011,3
+216751,Rosuvastatin,High Cholesterol,Very good,10,23-May-16,17,High Cholesterol,,High Cholesterol,3,2.8903717578961645,2,2,9,4.5,2016,5
+157318,Amaryl,"Diabetes, Type 2",Good,10,26-Nov-13,22,Diabetes,Type 2,Type 2 Diabetes,3,3.1354942159291497,1,1,4,4.0,2013,11
+195267,Dutasteride / tamsulosin,Benign Prostatic Hyperplasia,Caused side effects like erectile dysfunction and it took a while to work. Also felt a little dizzy taking this.,3,7-Nov-10,44,Benign Prostatic Hyperplasia,,Benign Prostatic Hyperplasia,1,3.8066624897703196,20,26,112,5.6,2010,11
+172909,Clonazepam,Bipolar Disorde,Great.,10,27-Sep-13,23,Bipolar Disorde,,Bipolar Disorde,3,3.1780538303479458,1,1,6,6.0,2013,9
+207099,ActoPlus Met,"Diabetes, Type 2",Very effective.,9,26-May-09,12,Diabetes,Type 2,Type 2 Diabetes,3,2.5649493574615367,2,2,15,7.5,2009,5
+145394,Coumadin,"Pulmonary Embolism, First Event",This drug saved my life.,10,28-Oct-09,36,Pulmonary Embolism,First Event,First Event Pulmonary Embolism,3,3.6109179126442243,5,6,24,4.8,2009,10
+13587,Amphetamine / dextroamphetamine,ADHD,Works great!,9,10-Oct-11,3,ADHD,,ADHD,3,1.3862943611198906,2,2,12,6.0,2011,10
+83313,Paxil,Post Traumatic Stress Disorde,Works great.,10,26-Aug-09,27,Post Traumatic Stress Disorde,,Post Traumatic Stress Disorde,3,3.332204510175204,2,2,12,6.0,2009,8
+180069,Adapalene / benzoyl peroxide,Acne,It works great.,9,18-Jun-11,9,Acne,,Acne,3,2.302585092994046,3,3,15,5.0,2011,6
+117824,Multivitamin with minerals,Vitamin/Mineral Supplementation and Deficiency,No side effects.,8,20-Feb-12,4,Vitamin/Mineral Supplementation and Deficiency,,Vitamin/Mineral Supplementation and Deficiency,3,1.6094379124341003,3,3,16,5.33,2012,2
+189406,Oxycodone,Pain,Great,9,12-Jul-12,55,Pain,,Pain,3,4.02535169073515,1,1,5,5.0,2012,7
+147475,Alprazolam,Depression,It is great.,10,21-Oct-09,38,Depression,,Depression,3,3.6635616461296463,3,3,12,4.0,2009,10
+211069,Carisoprodol,Muscle Spasm,Very good medicine.,10,2-Sep-09,21,Muscle Spasm,,Muscle Spasm,3,3.091042453358316,3,3,19,6.33,2009,9
+207258,Valtrex,"Herpes Simplex, Suppression",Works,9,12-Apr-15,29,Herpes Simplex,Suppression,Suppression Herpes Simplex,3,3.4011973816621555,1,1,5,5.0,2015,4
+69294,Celebrex,Rheumatoid Arthritis,I have had chronic pain and tried many medicines including narcotics to help. Celebrex has helped me so much. I am able to do so many things that I couldn't before. My doctor has me taking it with Tylenol w/Codeine #3 and Carisoprodol.,9,7-Apr-08,94,Rheumatoid Arthritis,,Rheumatoid Arthritis,3,4.553876891600541,43,55,235,5.47,2008,4
+134663,Ketorolac,Postoperative Pain,Works great!,8,14-Nov-11,1,Postoperative Pain,,Postoperative Pain,3,0.6931471805599453,2,2,12,6.0,2011,11
+7974,Xanax,Anxiety,Great.,10,14-Dec-09,8,Anxiety,,Anxiety,3,2.1972245773362196,1,1,6,6.0,2009,12
+191073,Campral,Alcohol Dependence,Works well.,10,29-Mar-15,28,Alcohol Dependence,,Alcohol Dependence,3,3.367295829986474,2,2,11,5.5,2015,3
+140720,Escitalopram,Anxiety,Positive,4,16-Aug-16,1,Anxiety,,Anxiety,1,0.6931471805599453,1,1,8,8.0,2016,8
+34138,Tramadol,Pain,Very good.,10,19-Jul-09,15,Pain,,Pain,3,2.772588722239781,2,2,10,5.0,2009,7
+103600,Synthroid,Underactive Thyroid,Weight gain,2,24-Jan-17,28,Underactive Thyroid,,Underactive Thyroid,1,3.367295829986474,2,2,11,5.5,2017,1
+37628,Vyvanse,ADHD,"I am a 19 year old college student and just got prescribed Vyvanse about 2 days ago. When I take it I mainly feel relaxed and sometimes excited. I've never been on any stimulant or ADD medication before. My main concern is losing weight on this medicine. I'm about 5'9"" and weigh about 135lbs. I eat a lot and I'm still fairly skinny. I've always worried about my weight and the last thing I want is to get skinnier.",9,12-Jan-10,6,ADHD,,ADHD,3,1.9459101490553132,79,102,416,5.27,2010,1
+203414,Indomethacin,zen Shoulde,It works.,10,7-Dec-11,12,zen Shoulde,,zen Shoulde,3,2.5649493574615367,2,2,9,4.5,2011,12
+173004,Clonazepam,Seizure Prevention,Good,10,7-Aug-12,15,Seizure Prevention,,Seizure Prevention,3,2.772588722239781,1,1,4,4.0,2012,8
+49417,Ethinyl estradiol / levonorgestrel,Birth Control,Works great but you need to take it on time.,10,22-Dec-15,11,Birth Control,,Birth Control,3,2.4849066497880004,10,13,44,4.4,2015,12
+169920,Brompheniramine / dextromethorphan / pseudoephedrine,Cough and Nasal Congestion,Not effective,1,5-Dec-15,1,Cough and Nasal Congestion,,Cough and Nasal Congestion,1,0.6931471805599453,2,2,13,6.5,2015,12
+69797,Chlorpheniramine / hydrocodone,Cough,It works.,10,12-Nov-09,1,Cough,,Cough,3,0.6931471805599453,2,2,9,4.5,2009,11
+67028,Seroquel,Depression,I love it.,10,16-Oct-08,25,Depression,,Depression,3,3.258096538021482,3,3,10,3.33,2008,10
+95783,Sertraline,Anxiety and Stress,Good.,9,13-Aug-14,51,Anxiety and Stress,,Anxiety and Stress,3,3.9512437185814275,1,1,5,5.0,2014,8
+146265,Suboxone,Opiate Dependence,Saved my life.,10,12-Jan-10,2,Opiate Dependence,,Opiate Dependence,3,1.0986122886681098,3,3,14,4.67,2010,1
+112774,Artemether / lumefantrine,Malaria,Excellent,10,28-Mar-13,6,Malaria,,Malaria,3,1.9459101490553132,1,1,9,9.0,2013,3
+61081,Lovenox,Angina,Very effective.,10,24-Jul-13,0,Angina,,Angina,3,0.0,2,2,15,7.5,2013,7
+56854,Meclizine,Vertig,Works for me.,10,31-Dec-08,48,Vertig,,Vertig,3,3.8918202981106265,3,3,13,4.33,2008,12
+211855,Lamotrigine,Post Traumatic Stress Disorde,Saved my life,10,12-Jun-16,17,Post Traumatic Stress Disorde,,Post Traumatic Stress Disorde,3,2.8903717578961645,3,3,13,4.33,2016,6
+174881,Metamucil,Constipation,It works great.,10,1-Jan-11,55,Constipation,,Constipation,3,4.02535169073515,3,3,15,5.0,2011,1
+211617,Propoxyphene,Pain,Good,8,13-Apr-09,8,Pain,,Pain,3,2.1972245773362196,1,1,4,4.0,2009,4
+89820,Celexa,Depression,No side effects.,8,12-Jun-08,6,Depression,,Depression,3,1.9459101490553132,3,3,16,5.33,2008,6
+159496,Insulin lispro / insulin lispro protamine,"Diabetes, Type 1",Good medicine.,9,12-Jan-10,8,Diabetes,Type 1,Type 1 Diabetes,3,2.1972245773362196,2,2,14,7.0,2010,1
+197482,Paroxetine,Panic Disorde,I like it.,10,28-Sep-09,8,Panic Disorde,,Panic Disorde,3,2.1972245773362196,3,3,10,3.33,2009,9
+40993,Acetaminophen / oxycodone,Pain,Works great for me,10,25-Feb-15,24,Pain,,Pain,3,3.2188758248682006,4,5,18,4.5,2015,2
+204312,BuSpar,Anxiety,Good medicine,7,30-Dec-16,8,Anxiety,,Anxiety,3,2.1972245773362196,2,2,13,6.5,2016,12
+11454,Vitapap,Pain,Good,10,3-May-15,3,Pain,,Pain,3,1.3862943611198906,1,1,4,4.0,2015,5
+113603,Acetaminophen / butalbital / caffeine,Headache,Good,10,21-Jan-16,14,Headache,,Headache,3,2.70805020110221,1,1,4,4.0,2016,1
+175079,Xylometazoline,Nasal Congestion,Very helpful,8,13-Oct-11,2,Nasal Congestion,,Nasal Congestion,3,1.0986122886681098,2,2,12,6.0,2011,10
+224228,Levothyroxine,Underactive Thyroid,Weight gain,2,24-Jan-17,28,Underactive Thyroid,,Underactive Thyroid,1,3.367295829986474,2,2,11,5.5,2017,1
+214710,Warfarin,"Pulmonary Embolism, First Event",This drug saved my life.,10,28-Oct-09,36,Pulmonary Embolism,First Event,First Event Pulmonary Embolism,3,3.6109179126442243,5,6,24,4.8,2009,10
+135758,Percocet,Chronic Pain,It works,10,7-Feb-16,22,Chronic Pain,,Chronic Pain,3,3.1354942159291497,2,2,8,4.0,2016,2
+163464,Mirtazapine,Depression,Saved my life,10,21-Aug-15,23,Depression,,Depression,3,3.1780538303479458,3,3,13,4.33,2015,8
+173289,Clonazepam,Panic Disorde,Doesn't work for me.,3,9-Nov-09,5,Panic Disorde,,Panic Disorde,1,1.791759469228055,4,5,20,5.0,2009,11
+65263,Adcirca,Pulmonary Hypertension,Very good medicine.,6,19-Jul-10,11,Pulmonary Hypertension,,Pulmonary Hypertension,2,2.4849066497880004,3,3,19,6.33,2010,7
+193542,Cyclobenzaprine,Migraine,Did not work well for me.,4,10-Feb-10,8,Migraine,,Migraine,1,2.1972245773362196,6,7,25,4.17,2010,2
+58696,Risperdal M-Tab,Asperger Syndrome,Works well.,8,17-Jan-13,8,Asperger Syndrome,,Asperger Syndrome,3,2.1972245773362196,2,2,11,5.5,2013,1
+97005,Ambien,Insomnia,Works great,10,31-Mar-15,24,Insomnia,,Insomnia,3,3.2188758248682006,2,2,11,5.5,2015,3
+188825,Xeloda,Breast Cance,Good,10,2-Nov-12,19,Breast Cance,,Breast Cance,3,2.995732273553991,1,1,4,4.0,2012,11
+30836,Miconazole,Vaginal Yeast Infection,I loved it!!!!,9,12-Jun-17,0,Vaginal Yeast Infection,,Vaginal Yeast Infection,3,0.0,3,3,14,4.67,2017,6
+71569,Combigan,Glaucoma/Intraocular Hypertension,good,10,11-Jan-15,4,Glaucoma/Intraocular Hypertension,,Glaucoma/Intraocular Hypertension,3,1.6094379124341003,1,1,4,4.0,2015,1
+175610,Augmentin,Kidney Infections,Great,10,23-Sep-12,42,Kidney Infections,,Kidney Infections,3,3.7612001156935624,1,1,5,5.0,2012,9
+139909,Euflexxa,Osteoarthritis,Wonderful,8,12-Jun-12,33,Osteoarthritis,,Osteoarthritis,3,3.5263605246161616,1,1,9,9.0,2012,6
+220024,Amitriptyline,Pain,Very good,8,10-Feb-16,34,Pain,,Pain,3,3.5553480614894135,2,2,9,4.5,2016,2
+151121,OxyContin,Pain,Great,9,12-Jul-12,55,Pain,,Pain,3,4.02535169073515,1,1,5,5.0,2012,7
+7950,Xanax,Anxiety,Good,10,23-May-12,18,Anxiety,,Anxiety,3,2.9444389791664403,1,1,4,4.0,2012,5
+210999,Carisoprodol,Muscle Spasm,It works great.,9,23-Jun-12,38,Muscle Spasm,,Muscle Spasm,3,3.6635616461296463,3,3,15,5.0,2012,6
+61708,Citalopram,Anxiety and Stress,Great,9,17-Apr-16,8,Anxiety and Stress,,Anxiety and Stress,3,2.1972245773362196,1,1,5,5.0,2016,4
+172496,Clonazepam,Anxiety,Good,5,18-Apr-16,6,Anxiety,,Anxiety,2,1.9459101490553132,1,1,4,4.0,2016,4
+224252,Levothyroxine,"Hypothyroidism, After Thyroid Removal",Just started,5,8-Oct-16,1,Hypothyroidism,After Thyroid Removal,After Thyroid Removal Hypothyroidism,2,0.6931471805599453,2,2,12,6.0,2016,10
+8016,Xanax,Depression,It is great.,10,21-Oct-09,38,Depression,,Depression,3,3.6635616461296463,3,3,12,4.0,2009,10
+191722,Lisdexamfetamine,ADHD,Works great for me.,10,13-Feb-12,10,ADHD,,ADHD,3,2.3978952727983707,4,5,19,4.75,2012,2
+193524,Cyclobenzaprine,Muscle Spasm,Good,10,22-Aug-09,14,Muscle Spasm,,Muscle Spasm,3,2.70805020110221,1,1,4,4.0,2009,8
+12947,Jalyn,Benign Prostatic Hyperplasia,Caused side effects like erectile dysfunction and it took a while to work. Also felt a little dizzy taking this.,3,7-Nov-10,44,Benign Prostatic Hyperplasia,,Benign Prostatic Hyperplasia,1,3.8066624897703196,20,26,112,5.6,2010,11
+67708,Plan B,Emergency Contraception,It works,9,21-Jan-17,0,Emergency Contraception,,Emergency Contraception,3,0.0,2,2,8,4.0,2017,1
+147309,Alprazolam,Anxiety,Good,10,23-May-12,18,Anxiety,,Anxiety,3,2.9444389791664403,1,1,4,4.0,2012,5
+13588,Amphetamine / dextroamphetamine,ADHD,Works great.,10,15-Sep-11,1,ADHD,,ADHD,3,0.6931471805599453,2,2,12,6.0,2011,9
+172115,Tylenol PM,Insomnia,Works great for me.,9,12-Jul-13,18,Insomnia,,Insomnia,3,2.9444389791664403,4,5,19,4.75,2013,7
+166117,Levonorgestrel,Emergency Contraception,It works,9,21-Jan-17,0,Emergency Contraception,,Emergency Contraception,3,0.0,2,2,8,4.0,2017,1
+173072,Clonazepam,Anxiety,Works well.,10,20-Feb-11,8,Anxiety,,Anxiety,3,2.1972245773362196,2,2,11,5.5,2011,2
+41020,Acetaminophen / oxycodone,Chronic Pain,good,10,21-Oct-15,15,Chronic Pain,,Chronic Pain,3,2.772588722239781,1,1,4,4.0,2015,10
+187587,Naprosyn,Costochondritis,It is good.,10,28-Aug-08,22,Costochondritis,,Costochondritis,3,3.1354942159291497,3,3,11,3.67,2008,8
+41349,Acetaminophen / oxycodone,Pain,Great!,10,14-Jul-08,8,Pain,,Pain,3,2.1972245773362196,1,1,6,6.0,2008,7
+132383,Ativan,Anxiety,Very good,8,24-Jan-10,12,Anxiety,,Anxiety,3,2.5649493574615367,2,2,9,4.5,2010,1
+156045,Cialis,Erectile Dysfunction,Good.,9,19-Mar-14,11,Erectile Dysfunction,,Erectile Dysfunction,3,2.4849066497880004,1,1,5,5.0,2014,3
+153621,Doxycycline,Rosacea,Great.,10,26-Apr-11,15,Rosacea,,Rosacea,3,2.772588722239781,1,1,6,6.0,2011,4
+122037,Venlafaxine,Depression,Excellent,10,7-Aug-11,2,Depression,,Depression,3,1.0986122886681098,1,1,9,9.0,2011,8
+36706,Fentanyl,Pain,Good stuff.,9,25-Jan-10,6,Pain,,Pain,3,1.9459101490553132,2,2,11,5.5,2010,1
+102253,Medrol,"Asthma, Maintenance",Excellent,10,27-Jan-16,5,Asthma,Maintenance,Maintenance Asthma,3,1.791759469228055,1,1,9,9.0,2016,1
+172210,Doxazosin,High Blood Pressure,"Took 1 8mg Cardura daily. Experienced dizziness and nausea for the first 3 days but later adjusted to the medication and maintained pressure around 120/80. On doctor's advise, Cardura discontinued and replaced with alternative medication due to excessively fast pulse/heart rate up to 100/s after 6 months on Cardura",5,26-Mar-08,165,High Blood Pressure,,High Blood Pressure,2,5.111987788356544,49,63,316,6.45,2008,3
+223391,Cetirizine,Allergic Rhinitis,Constipation,10,13-May-11,3,Allergic Rhinitis,,Allergic Rhinitis,3,1.3862943611198906,1,1,12,12.0,2011,5
+183294,Cymbalta,Pain,Good.,9,27-Jul-12,15,Pain,,Pain,3,2.772588722239781,1,1,5,5.0,2012,7
+196212,Fluvoxamine,Depression,Very good,9,15-Jul-15,10,Depression,,Depression,3,2.3978952727983707,2,2,9,4.5,2015,7
+158364,Amrix,Migraine,Did not work well for me.,3,6-Mar-10,13,Migraine,,Migraine,1,2.6390573296152584,6,7,25,4.17,2010,3
+19809,Pregabalin,Pain,"The first time I used Lyrica I experienced an amazingly profound reaction; layers of depression and anxiety that had built up over several years melted away within minutes. That was years ago and I have since both weaned myself off the drug and restarted taking it again. One thing I rarely see mentioned is the terrifyingly bad withdrawal effect- missing more than one dose for me throws me into the absolute darkest pits of despair. Has anyone else experienced this? When I went off the drug the first time I felt like I had performed a miracle; so strong was the feeling that it took a long time for me to convince myself that things were bad enough to warrant going back on. It still helps, but nothing as miraculous as the first time.",9,29-Sep-09,30,Pain,,Pain,3,3.4339872044851463,134,174,739,5.51,2009,9
+164855,Librax,Peptic Ulce,Very helpful.,8,10-Aug-09,12,Peptic Ulce,,Peptic Ulce,3,2.5649493574615367,2,2,13,6.5,2009,8
+146238,Suboxone,Opiate Dependence,Awesome.,10,18-Jun-10,10,Opiate Dependence,,Opiate Dependence,3,2.3978952727983707,1,1,8,8.0,2010,6
+25628,Arginine,Diagnosis and Investigation,Very good,10,31-Oct-15,8,Diagnosis and Investigation,,Diagnosis and Investigation,3,2.1972245773362196,2,2,9,4.5,2015,10
+61440,Citalopram,Depression,Saved my life.,8,5-Jun-17,13,Depression,,Depression,3,2.6390573296152584,3,3,14,4.67,2017,6
+43835,Acetaminophen / codeine,Pain,Great,8,6-Jul-15,5,Pain,,Pain,3,1.791759469228055,1,1,5,5.0,2015,7
+224622,Levothyroxine,"Hypothyroidism, After Thyroid Removal",This medicine saved my life.,10,18-Nov-08,63,Hypothyroidism,After Thyroid Removal,After Thyroid Removal Hypothyroidism,3,4.1588830833596715,5,6,28,5.6,2008,11
+118095,Apixaban,Prevention of Thromboembolism in Atrial Fibrillation,No side effects at all.,9,18-Feb-15,73,Prevention of Thromboembolism in Atrial Fibrillation,,Prevention of Thromboembolism in Atrial Fibrillation,3,4.30406509320417,5,6,23,4.6,2015,2
+102648,Aripiprazole,Bipolar Disorde,Love it!,8,7-Apr-15,14,Bipolar Disorde,,Bipolar Disorde,3,2.70805020110221,2,2,8,4.0,2015,4
+21283,Acetaminophen / chlorpheniramine / phenylephrine,Cold Symptoms,Good.,9,22-Aug-09,10,Cold Symptoms,,Cold Symptoms,3,2.3978952727983707,1,1,5,5.0,2009,8
+132382,Ativan,Sedation,Very good,10,24-Jan-10,18,Sedation,,Sedation,3,2.9444389791664403,2,2,9,4.5,2010,1
+46329,Modafinil,Obstructive Sleep Apnea/Hypopnea Syndrome,Positive,7,27-Jan-15,16,Obstructive Sleep Apnea/Hypopnea Syndrome,,Obstructive Sleep Apnea/Hypopnea Syndrome,3,2.833213344056216,1,1,8,8.0,2015,1
+37506,Vyvanse,ADHD,Works great for me.,10,13-Feb-12,10,ADHD,,ADHD,3,2.3978952727983707,4,5,19,4.75,2012,2
+74792,Keppra,Neuralgia,I,9,23-Feb-14,2,Neuralgia,,Neuralgia,3,1.0986122886681098,1,1,1,1.0,2014,2
+89793,Celexa,Obsessive Compulsive Disorde,Saved my life,9,5-Feb-09,67,Obsessive Compulsive Disorde,,Obsessive Compulsive Disorde,3,4.219507705176107,3,3,13,4.33,2009,2
+164053,Ibuprofen,Pain,It's good.,10,28-Nov-11,3,Pain,,Pain,3,1.3862943611198906,2,2,10,5.0,2011,11
+36869,Meperidine,Pain,It is great.,9,20-Jul-09,27,Pain,,Pain,3,3.332204510175204,3,3,12,4.0,2009,7
+95509,Acetaminophen / diphenhydramine,Insomnia,Great,8,11-May-17,3,Insomnia,,Insomnia,3,1.3862943611198906,1,1,5,5.0,2017,5
+151653,Chantix,Smoking Cessation,Great,10,26-Dec-14,11,Smoking Cessation,,Smoking Cessation,3,2.4849066497880004,1,1,5,5.0,2014,12
+151710,Chantix,Smoking Cessation,Excellent,10,16-Mar-15,8,Smoking Cessation,,Smoking Cessation,3,2.1972245773362196,1,1,9,9.0,2015,3
+160236,Rivaroxaban,Pulmonary Embolism,So far so good.,8,24-Jan-13,24,Pulmonary Embolism,,Pulmonary Embolism,3,3.2188758248682006,4,5,15,3.75,2013,1
+4020,Seroquel XR,Major Depressive Disorde,Works great for me,9,3-Mar-15,5,Major Depressive Disorde,,Major Depressive Disorde,3,1.791759469228055,4,5,18,4.5,2015,3
+120010,Losartan,Not Listed / Othe,No side effects,8,6-Dec-10,16,Not Listed / Othe,,Not Listed / Othe,3,2.833213344056216,3,3,15,5.0,2010,12
+93560,Famotidine,Not Listed / Othe,Good,10,5-Aug-09,4,Not Listed / Othe,,Not Listed / Othe,3,1.6094379124341003,1,1,4,4.0,2009,8
+181763,Prozac,Anxiety and Stress,Awesome.,9,27-Jan-09,82,Anxiety and Stress,,Anxiety and Stress,3,4.418840607796598,1,1,8,8.0,2009,1
+22019,Infliximab,"Crohn's Disease, Acute",Works well.,9,25-Aug-11,2,Crohn's Disease,Acute,Acute Crohn's Disease,3,1.0986122886681098,2,2,11,5.5,2011,8
+200200,Varenicline,Smoking Cessation,Great,10,26-Dec-14,11,Smoking Cessation,,Smoking Cessation,3,2.4849066497880004,1,1,5,5.0,2014,12
+14516,Buprenorphine / naloxone,Opiate Dependence,This medicine saved my life.,10,25-Jul-09,10,Opiate Dependence,,Opiate Dependence,3,2.3978952727983707,5,6,28,5.6,2009,7
+147341,Alprazolam,Depression,Good,10,2-Dec-11,40,Depression,,Depression,3,3.713572066704308,1,1,4,4.0,2011,12
+27122,Ultram,Pain,works great,10,8-Mar-09,13,Pain,,Pain,3,2.6390573296152584,2,2,11,5.5,2009,3
+217589,Clarithromycin,Sinusitis,good,9,17-Mar-12,8,Sinusitis,,Sinusitis,3,2.1972245773362196,1,1,4,4.0,2012,3
+141443,Escitalopram,Generalized Anxiety Disorde,Good,10,21-Jun-14,29,Generalized Anxiety Disorde,,Generalized Anxiety Disorde,3,3.4011973816621555,1,1,4,4.0,2014,6
+90124,Insulin glulisine,"Diabetes, Type 1",Great medicine. No side effects.,9,31-Oct-11,3,Diabetes,Type 1,Type 1 Diabetes,3,1.3862943611198906,5,6,32,6.4,2011,10
+194361,Lorazepam Intensol,Sedation,Works great,7,21-Feb-13,19,Sedation,,Sedation,3,2.995732273553991,2,2,11,5.5,2013,2
+170676,Quetiapine,Schizoaffective Disorde,Works for me.,9,11-Mar-14,14,Schizoaffective Disorde,,Schizoaffective Disorde,3,2.70805020110221,3,3,13,4.33,2014,3
+28373,Lexapro,Generalized Anxiety Disorde,Good,10,21-Jun-14,29,Generalized Anxiety Disorde,,Generalized Anxiety Disorde,3,3.4011973816621555,1,1,4,4.0,2014,6
+43594,Hydromorphone,Pain,Great.,8,30-Dec-08,14,Pain,,Pain,3,2.70805020110221,1,1,6,6.0,2008,12
+180088,Glyset,"Diabetes, Type 2",Good medicine.,10,16-May-10,4,Diabetes,Type 2,Type 2 Diabetes,3,1.6094379124341003,2,2,14,7.0,2010,5
+94711,Abilify,Bipolar Disorde,Love it!,8,7-Apr-15,14,Bipolar Disorde,,Bipolar Disorde,3,2.70805020110221,2,2,8,4.0,2015,4
+53744,Tylenol with Codeine #3,Pain,Very good,10,29-Jun-10,18,Pain,,Pain,3,2.9444389791664403,2,2,9,4.5,2010,6
+29001,Lexapro,Anxiety,Excellent,9,3-Jul-08,27,Anxiety,,Anxiety,3,3.332204510175204,1,1,9,9.0,2008,7
+5853,Opana,Pain,No side effects.,8,24-Dec-10,17,Pain,,Pain,3,2.8903717578961645,3,3,16,5.33,2010,12
+176649,Lorazepam,Sedation,Very good,10,24-Jan-10,18,Sedation,,Sedation,3,2.9444389791664403,2,2,9,4.5,2010,1
+77993,Retin-A,Photoaging of the Skin,Great.,10,15-Feb-13,64,Photoaging of the Skin,,Photoaging of the Skin,3,4.174387269895637,1,1,6,6.0,2013,2
+3928,Lactobacillus acidophilus,Clostridial Infection,Works great,9,21-Sep-11,3,Clostridial Infection,,Clostridial Infection,3,1.3862943611198906,2,2,11,5.5,2011,9
+17195,Flexeril,Muscle Spasm,Good,10,22-Aug-09,14,Muscle Spasm,,Muscle Spasm,3,2.70805020110221,1,1,4,4.0,2009,8
+139381,Armodafinil,Narcolepsy,Love it.,9,4-May-12,9,Narcolepsy,,Narcolepsy,3,2.302585092994046,2,2,8,4.0,2012,5
+203696,Suvorexant,Insomnia,Didn't work for me.,1,28-Oct-17,2,Insomnia,,Insomnia,1,1.0986122886681098,4,5,19,4.75,2017,10
+224681,Bupropion,Depression,Constipation,8,25-May-17,10,Depression,,Depression,3,2.3978952727983707,1,1,12,12.0,2017,5
+174451,Tiotropium,"COPD, Maintenance",Works well.,10,1-May-14,35,COPD,Maintenance,Maintenance COPD,3,3.58351893845611,2,2,11,5.5,2014,5
+45465,Fluoxetine,Obsessive Compulsive Disorde,Saved my life.,9,22-Oct-14,74,Obsessive Compulsive Disorde,,Obsessive Compulsive Disorde,3,4.31748811353631,3,3,14,4.67,2014,10
+79806,Xarelto,Pulmonary Embolism,So far so good.,8,24-Jan-13,24,Pulmonary Embolism,,Pulmonary Embolism,3,3.2188758248682006,4,5,15,3.75,2013,1
+32022,Miconazole,Vaginal Yeast Infection,Works great.,7,27-Jul-12,25,Vaginal Yeast Infection,,Vaginal Yeast Infection,3,3.258096538021482,2,2,12,6.0,2012,7
+87751,Naproxen,Costochondritis,It is good.,10,28-Aug-08,22,Costochondritis,,Costochondritis,3,3.1354942159291497,3,3,11,3.67,2008,8
+220249,Amitriptyline,ibromyalgia,Works great,10,24-Nov-14,34,ibromyalgia,,ibromyalgia,3,3.5553480614894135,2,2,11,5.5,2014,11
+114789,Methotrexate,Lymphoma,Didn't work for me.,2,11-Nov-09,2,Lymphoma,,Lymphoma,1,1.0986122886681098,4,5,19,4.75,2009,11
+121273,Venlafaxine,Depression,After many months spent being given ten different types of antidepressants which none agreed with me my Dr suggested Venlafaxine 37.5 twice a day but I personally found it too much ( turned me into a Zombie) so we agreed on one 37.5 dosage daily slowly but surly it has given me my life back no major side effects other than insomnia .... Darkness is all I could see before venlafaxine 10/10 highly recommended,9,22-Jul-16,2,Depression,,Depression,3,1.0986122886681098,74,96,410,5.54,2016,7
+206344,Mesalamine,"Crohn's Disease, Maintenance",works great,10,28-Jun-15,14,Crohn's Disease,Maintenance,Maintenance Crohn's Disease,3,2.70805020110221,2,2,11,5.5,2015,6
+226199,Remicade,"Crohn's Disease, Acute",Works well.,9,25-Aug-11,2,Crohn's Disease,Acute,Acute Crohn's Disease,3,1.0986122886681098,2,2,11,5.5,2011,8
+59425,Zyrtec,Allergic Rhinitis,Love it.,10,24-Jun-08,4,Allergic Rhinitis,,Allergic Rhinitis,3,1.6094379124341003,2,2,8,4.0,2008,6
+43451,Hydromorphone,Chronic Pain,Works,9,17-Feb-15,42,Chronic Pain,,Chronic Pain,3,3.7612001156935624,1,1,5,5.0,2015,2
+29110,Topiramate,Obesity,Good,9,31-Aug-17,5,Obesity,,Obesity,3,1.791759469228055,1,1,4,4.0,2017,8
+164756,Diclofenac,Pain,Great,10,3-Nov-08,25,Pain,,Pain,3,3.258096538021482,1,1,5,5.0,2008,11
+57868,Acetaminophen / hydrocodone,Pain,Works well.,10,10-Jan-12,2,Pain,,Pain,3,1.0986122886681098,2,2,11,5.5,2012,1
+62563,Citalopram,Anxiety and Stress,Good.,10,26-Jul-11,10,Anxiety and Stress,,Anxiety and Stress,3,2.3978952727983707,1,1,5,5.0,2011,7
+173032,Clonazepam,Panic Disorde,Very good.,10,16-Mar-13,9,Panic Disorde,,Panic Disorde,3,2.302585092994046,2,2,10,5.0,2013,3
+163534,Mirtazapine,Depression,Good,10,29-Mar-15,9,Depression,,Depression,3,2.302585092994046,1,1,4,4.0,2015,3
+126896,Dilaudid,Pain,Great.,8,30-Dec-08,14,Pain,,Pain,3,2.70805020110221,1,1,6,6.0,2008,12
+57921,Acetaminophen / hydrocodone,Cough,Works great.,10,30-Sep-11,28,Cough,,Cough,3,3.367295829986474,2,2,12,6.0,2011,9
+135526,Tamiflu,Influenza,Very expensive though.,7,16-Jan-13,8,Influenza,,Influenza,3,2.1972245773362196,3,3,22,7.33,2013,1
+77689,Cephalexin,Bacterial Infection,Good,7,10-May-09,6,Bacterial Infection,,Bacterial Infection,3,1.9459101490553132,1,1,4,4.0,2009,5
+173961,Sandostatin,"Diabetes, Type 1",Great medicine. No side effects.,9,31-Oct-11,2,Diabetes,Type 1,Type 1 Diabetes,3,1.0986122886681098,5,6,32,6.4,2011,10
+126784,Prednicot,Rheumatoid Arthritis,Good.,10,10-Jul-12,25,Rheumatoid Arthritis,,Rheumatoid Arthritis,3,3.258096538021482,1,1,5,5.0,2012,7
+177976,Duloxetine,Pain,Good.,9,27-Jul-12,15,Pain,,Pain,3,2.772588722239781,1,1,5,5.0,2012,7
+62842,Citalopram,Obsessive Compulsive Disorde,Saved my life,9,5-Feb-09,67,Obsessive Compulsive Disorde,,Obsessive Compulsive Disorde,3,4.219507705176107,3,3,13,4.33,2009,2
+176280,Lorazepam,Anxiety,Good,6,9-Jul-16,6,Anxiety,,Anxiety,2,1.9459101490553132,1,1,4,4.0,2016,7
+171061,Quetiapine,Depression,I love it.,10,16-Oct-08,25,Depression,,Depression,3,3.258096538021482,3,3,10,3.33,2008,10
+139959,Euflexxa,Osteoarthritis,Great.,10,20-Dec-11,13,Osteoarthritis,,Osteoarthritis,3,2.6390573296152584,1,1,6,6.0,2011,12
+57563,Insulin isophane / insulin regular,"Diabetes, Type 1",Great medicine.,9,31-Oct-11,0,Diabetes,Type 1,Type 1 Diabetes,3,0.0,2,2,15,7.5,2011,10
+105647,Methylprednisolone,"Asthma, Maintenance",Excellent,10,27-Jan-16,5,Asthma,Maintenance,Maintenance Asthma,3,1.791759469228055,1,1,9,9.0,2016,1
+140394,Alka-Seltzer Plus Cold,Cold Symptoms,Good.,9,22-Aug-09,10,Cold Symptoms,,Cold Symptoms,3,2.3978952727983707,1,1,5,5.0,2009,8
+153872,Amoxicillin,Bladder Infection,Great.,10,24-Jun-08,36,Bladder Infection,,Bladder Infection,3,3.6109179126442243,1,1,6,6.0,2008,6
+75986,Tudorza Pressair,COPD,Good.,8,11-Jun-13,27,COPD,,COPD,3,3.332204510175204,1,1,5,5.0,2013,6
+145918,Qsymia,Obesity,Good.,7,29-Jul-12,60,Obesity,,Obesity,3,4.110873864173311,1,1,5,5.0,2012,7
+228886,Tadalafil,Erectile Dysfunction,Good,8,14-Oct-16,0,Erectile Dysfunction,,Erectile Dysfunction,3,0.0,1,1,4,4.0,2016,10
+209147,Skelaxin,Muscle Spasm,Good,7,12-Jun-13,25,Muscle Spasm,,Muscle Spasm,3,3.258096538021482,1,1,4,4.0,2013,6
+42955,Ryzolt,Pain,Very good.,10,19-Jul-09,15,Pain,,Pain,3,2.772588722239781,2,2,10,5.0,2009,7
+189640,Oxycodone,Pain,"This medicine has worked wonders on my chronic back pain. I have tried everything from Tramadol to Opana ER and for the price Roxicodone 30mg tops them all if taken as prescribed, and at the same time each day. The only downfall is that you must take the pills more frequently than say MS Contin or Oxycontin where you only need them every 12 hours. However that was my main problem with the Opana, Oxycontin, Etc., they didn't seem to last the full 12 hours as advertised. I was lucky if I got a good 8 hours from them.",10,3-Oct-09,48,Pain,,Pain,3,3.8918202981106265,99,128,520,5.25,2009,10
+228980,Tadalafil,Erectile Dysfunction,Good.,9,19-Mar-14,11,Erectile Dysfunction,,Erectile Dysfunction,3,2.4849066497880004,1,1,5,5.0,2014,3
+68444,Enoxaparin,Angina,Very effective.,10,24-Jul-13,0,Angina,,Angina,3,0.0,2,2,15,7.5,2013,7
+41417,Acetaminophen / oxycodone,Pain,Very good.,9,16-Dec-08,7,Pain,,Pain,3,2.0794415416798357,2,2,10,5.0,2008,12
+91052,Norco,Pain,Good medicine.,9,16-Feb-09,11,Pain,,Pain,3,2.4849066497880004,2,2,14,7.0,2009,2
+76487,Octreotide,"Diabetes, Type 1",Great medicine. No side effects.,9,31-Oct-11,2,Diabetes,Type 1,Type 1 Diabetes,3,1.0986122886681098,5,6,32,6.4,2011,10
+79793,Xarelto,Deep Vein Thrombosis,Good,9,8-Dec-13,11,Deep Vein Thrombosis,,Deep Vein Thrombosis,3,2.4849066497880004,1,1,4,4.0,2013,12
+57562,Insulin isophane / insulin regular,"Diabetes, Type 1",Great medicine. No side effects.,9,31-Oct-11,10,Diabetes,Type 1,Type 1 Diabetes,3,2.3978952727983707,5,6,32,6.4,2011,10
+135966,Acamprosate,Alcohol Dependence,Works well.,10,29-Mar-15,28,Alcohol Dependence,,Alcohol Dependence,3,3.367295829986474,2,2,11,5.5,2015,3
+34212,Tramadol,Pain,works great,10,8-Mar-09,13,Pain,,Pain,3,2.6390573296152584,2,2,11,5.5,2009,3
+62435,Citalopram,Anxiety and Stress,Good,8,9-Nov-11,7,Anxiety and Stress,,Anxiety and Stress,3,2.0794415416798357,1,1,4,4.0,2011,11
+55457,Belviq,Weight Loss,Great.,10,22-Aug-13,52,Weight Loss,,Weight Loss,3,3.970291913552122,1,1,6,6.0,2013,8
+62751,Citalopram,Depression,No side effects.,8,12-Jun-08,6,Depression,,Depression,3,1.9459101490553132,3,3,16,5.33,2008,6
+172398,Clonazepam,Anxiety,I,8,19-Oct-16,3,Anxiety,,Anxiety,3,1.3862943611198906,1,1,1,1.0,2016,10
+76329,Roflumilast,COPD,No side effects at all.,10,20-Oct-11,79,COPD,,COPD,3,4.382026634673881,5,6,23,4.6,2011,10
+61154,Clobazam,Lennox-Gastaut Syndrome,Great.,10,16-Jan-13,12,Lennox-Gastaut Syndrome,,Lennox-Gastaut Syndrome,3,2.5649493574615367,1,1,6,6.0,2013,1
+5931,Edex,Erectile Dysfunction,works great,10,17-Nov-17,0,Erectile Dysfunction,,Erectile Dysfunction,3,0.0,2,2,11,5.5,2017,11
+187799,Capecitabine,Breast Cance,Good,10,2-Nov-12,19,Breast Cance,,Breast Cance,3,2.995732273553991,1,1,4,4.0,2012,11
+191870,Lisdexamfetamine,ADHD,"I am a 19 year old college student and just got prescribed Vyvanse about 2 days ago. When I take it I mainly feel relaxed and sometimes excited. I've never been on any stimulant or ADD medication before. My main concern is losing weight on this medicine. I'm about 5'9"" and weigh about 135lbs. I eat a lot and I'm still fairly skinny. I've always worried about my weight and the last thing I want is to get skinnier.",9,12-Jan-10,6,ADHD,,ADHD,3,1.9459101490553132,79,102,416,5.27,2010,1
+75512,Oracea,Rosacea,Great.,10,26-Apr-11,15,Rosacea,,Rosacea,3,2.772588722239781,1,1,6,6.0,2011,4
+121270,Venlafaxine,Anxiety,After many months spent being given ten different types of antidepressants which none agreed with me my Dr suggested Venlafaxine 37.5 twice a day but I personally found it too much ( turned me into a Zombie) so we agreed on one 37.5 dosage daily slowly but surly it has given me my life back no major side effects other than insomnia .... Darkness is all I could see before venlafaxine 10/10 highly recommended,10,25-Jul-16,13,Anxiety,,Anxiety,3,2.6390573296152584,74,96,410,5.54,2016,7
+60939,Multivitamin,Dietary Supplementation,Work good,10,30-Mar-15,2,Dietary Supplementation,,Dietary Supplementation,3,1.0986122886681098,2,2,9,4.5,2015,3
+95519,Acetaminophen / diphenhydramine,Insomnia,Works great for me.,9,12-Jul-13,18,Insomnia,,Insomnia,3,2.9444389791664403,4,5,19,4.75,2013,7
+105807,Guaifenesin / phenylephrine,Sinus Symptoms,Love it.,10,23-Apr-09,7,Sinus Symptoms,,Sinus Symptoms,3,2.0794415416798357,2,2,8,4.0,2009,4
+66505,Valacyclovir,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",Very expensive though.,10,7-Jun-09,11,Herpes Simplex,Mucocutaneous/Immunocompetent Host,Mucocutaneous/Immunocompetent Host Herpes Simplex,3,2.4849066497880004,3,3,22,7.33,2009,6
+27514,ReliOn / Novolin 70 / 30,"Diabetes, Type 1",Great medicine. No side effects.,9,31-Oct-11,10,Diabetes,Type 1,Type 1 Diabetes,3,2.3978952727983707,5,6,32,6.4,2011,10
+32000,Brimonidine / timolol,Glaucoma/Intraocular Hypertension,good,10,11-Jan-15,4,Glaucoma/Intraocular Hypertension,,Glaucoma/Intraocular Hypertension,3,1.6094379124341003,1,1,4,4.0,2015,1
+19806,Pregabalin,Generalized Anxiety Disorde,"The first time I used Lyrica I experienced an amazingly profound reaction; layers of depression and anxiety that had built up over several years melted away within minutes. That was years ago and I have since both weaned myself off the drug and restarted taking it again. One thing I rarely see mentioned is the terrifyingly bad withdrawal effect- missing more than one dose for me throws me into the absolute darkest pits of despair. Has anyone else experienced this? When I went off the drug the first time I felt like I had performed a miracle; so strong was the feeling that it took a long time for me to convince myself that things were bad enough to warrant going back on. It still helps, but nothing as miraculous as the first time.",10,4-Oct-09,75,Generalized Anxiety Disorde,,Generalized Anxiety Disorde,3,4.330733340286331,134,174,739,5.51,2009,10
+77484,Avapro,High Blood Pressure,It's good.,7,6-Apr-14,21,High Blood Pressure,,High Blood Pressure,3,3.091042453358316,2,2,10,5.0,2014,4
+187506,Monistat 3-Day Combination Pack,Vaginal Yeast Infection,Works great.,7,27-Jul-12,25,Vaginal Yeast Infection,,Vaginal Yeast Infection,3,3.258096538021482,2,2,12,6.0,2012,7
+128340,Phentermine,Obesity,No side effects,7,2-Dec-15,4,Obesity,,Obesity,3,1.6094379124341003,3,3,15,5.0,2015,12
+158366,Amrix,Migraine,Did not work well for me.,4,10-Feb-10,8,Migraine,,Migraine,1,2.1972245773362196,6,7,25,4.17,2010,2
+132556,Doxepin,Insomnia,I love it.,9,12-Jun-14,26,Insomnia,,Insomnia,3,3.295836866004329,3,3,10,3.33,2014,6
+27367,Fenofibrate,Hypertriglyceridemia,Great,10,4-Jun-14,14,Hypertriglyceridemia,,Hypertriglyceridemia,3,2.70805020110221,1,1,5,5.0,2014,6
+80431,Aleve,Pain,Works well.,10,3-Dec-08,10,Pain,,Pain,3,2.3978952727983707,2,2,11,5.5,2008,12
+194968,Levetiracetam,Epilepsy,"I have had grand mal seizures since I was 9 years old and was involved in a car accident. I have taken Dilantin for over 50 years, with good results. It has controlled my seizures pretty well until recently. I was diagnosed with COPD 2 years ago, and in that time, I have been having seizures every 3-6 months. My doctor switched me to Keppra 6 months ago, and in that time, I have had at least 1 seizure a month. I think it's time to switch back to what works.",1,29-Aug-11,12,Epilepsy,,Epilepsy,1,2.5649493574615367,91,118,461,5.07,2011,8
+13592,Amphetamine / dextroamphetamine,ADHD,Saved my life.,10,31-Aug-11,0,ADHD,,ADHD,3,0.0,3,3,14,4.67,2011,8
+146273,Suboxone,Opiate Dependence,This medicine saved my life.,10,25-Jul-09,10,Opiate Dependence,,Opiate Dependence,3,2.3978952727983707,5,6,28,5.6,2009,7
+1495,Daliresp,COPD,No side effects at all.,10,20-Oct-11,79,COPD,,COPD,3,4.382026634673881,5,6,23,4.6,2011,10
+114120,Amlodipine,High Blood Pressure,Good.,10,16-Feb-09,8,High Blood Pressure,,High Blood Pressure,3,2.1972245773362196,1,1,5,5.0,2009,2
+41613,Bisacodyl / polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride,Bowel Preparation,Didn't work for me.,1,23-Sep-12,3,Bowel Preparation,,Bowel Preparation,1,1.3862943611198906,4,5,19,4.75,2012,9
+45901,Fluoxetine,Anxiety and Stress,Awesome.,9,27-Jan-09,82,Anxiety and Stress,,Anxiety and Stress,3,4.418840607796598,1,1,8,8.0,2009,1
+126881,Dilaudid,Pain,"This medicine has worked wonders on my chronic back pain. I have tried everything from Tramadol to Opana ER and for the price Roxicodone 30mg tops them all if taken as prescribed, and at the same time each day. The only downfall is that you must take the pills more frequently than say MS Contin or Oxycontin where you only need them every 12 hours. However that was my main problem with the Opana, Oxycontin, Etc., they didn't seem to last the full 12 hours as advertised. I was lucky if I got a good 8 hours from them.",9,4-Oct-09,16,Pain,,Pain,3,2.833213344056216,99,128,520,5.25,2009,10
+149976,Cortizone-10,Eczema,Works well for me.,10,13-Jun-13,10,Eczema,,Eczema,3,2.3978952727983707,4,5,18,4.5,2013,6
+151092,OxyContin,Chronic Pain,Great,10,31-Aug-13,44,Chronic Pain,,Chronic Pain,3,3.8066624897703196,1,1,5,5.0,2013,8
+12066,Metaxalone,Muscle Spasm,Good,7,12-Jun-13,25,Muscle Spasm,,Muscle Spasm,3,3.258096538021482,1,1,4,4.0,2013,6
+155904,Cialis,Erectile Dysfunction,Excellent,10,31-May-14,22,Erectile Dysfunction,,Erectile Dysfunction,3,3.1354942159291497,1,1,9,9.0,2014,5
+57897,Acetaminophen / hydrocodone,Back Pain,Very helpful.,9,4-May-12,1,Back Pain,,Back Pain,3,0.6931471805599453,2,2,13,6.5,2012,5
+90319,Vicodin,Pain,works great,8,14-Nov-08,14,Pain,,Pain,3,2.70805020110221,2,2,11,5.5,2008,11
+150885,Sulfamethoxazole / trimethoprim,Urinary Tract Infection,Works great.,10,23-Jan-12,23,Urinary Tract Infection,,Urinary Tract Infection,3,3.1780538303479458,2,2,12,6.0,2012,1
+102076,Humalog Mix 75 / 25,"Diabetes, Type 1",Good medicine.,9,12-Jan-10,8,Diabetes,Type 1,Type 1 Diabetes,3,2.1972245773362196,2,2,14,7.0,2010,1
+193918,Dilaudid,Chronic Pain,Works,9,17-Feb-15,42,Chronic Pain,,Chronic Pain,3,3.7612001156935624,1,1,5,5.0,2015,2
+46660,Gardasil,Human Papillomavirus Prophylaxis,Very good.,10,17-Dec-08,2,Human Papillomavirus Prophylaxis,,Human Papillomavirus Prophylaxis,3,1.0986122886681098,2,2,10,5.0,2008,12
+212931,Tizanidine,Muscle Spasm,So far so good.,9,16-Apr-15,36,Muscle Spasm,,Muscle Spasm,3,3.6109179126442243,4,5,15,3.75,2015,4
+191816,Lisdexamfetamine,ADHD,"I am a 19 year old college student and just got prescribed Vyvanse about 2 days ago. When I take it I mainly feel relaxed and sometimes excited. I've never been on any stimulant or ADD medication before. My main concern is losing weight on this medicine. I'm about 5'9"" and weigh about 135lbs. I eat a lot and I'm still fairly skinny. I've always worried about my weight and the last thing I want is to get skinnier.",5,17-Jul-09,6,ADHD,,ADHD,2,1.9459101490553132,79,102,416,5.27,2009,7
+66063,Propranolol,Benign Essential Trem,"I was prescribed Inderal to help with Primary Ortostatic Tremors. I did not get any relief with this medication for that condition. However. I discovered that whenever I stop taking Inderal, I end up with a migraine headache. I take 20 mg at bedtime. It makes me sleepy and gives me nightmares which continue to this day. However, the side effects are tolerable and well worth putting up with to prevent getting migraines. I highly recommend this medication for preventing migraines.",2,28-Apr-13,28,Benign Essential Trem,,Benign Essential Trem,1,3.367295829986474,81,105,483,5.96,2013,4
+12950,Jalyn,Benign Prostatic Hyperplasia,Caused side effects like erectile dysfunction and it took a while to work. Also felt a little dizzy taking this.,5,27-Sep-10,66,Benign Prostatic Hyperplasia,,Benign Prostatic Hyperplasia,2,4.204692619390966,20,26,112,5.6,2010,9
+147223,Alprazolam,Panic Disorde,Didn't work for me.,2,4-Aug-13,3,Panic Disorde,,Panic Disorde,1,1.3862943611198906,4,5,19,4.75,2013,8
