@@ -31,7 +31,7 @@ if hasattr(sys.stdout, "reconfigure"):
 if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8")
 
-DEFAULT_GEMINI_KEY = "AIzaSyCy034LLPmwY8d2s8ybaAyjDyieYerZaIQ"
+DEFAULT_GEMINI_KEY = os.getenv("GEMINI_API_KEY", "")
 
 import random
 
